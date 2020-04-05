@@ -1,2 +1,3 @@
-# points
-Minimum distance between all pairs of points of the set
+# Ближайшие точки
+Дано множество точек. 
+Надо найти минимальное растояние между точками.
